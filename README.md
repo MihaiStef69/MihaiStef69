@@ -5,5 +5,5 @@ Hello everyone! Mihai Stefanescu aka MihaiStef from Romania here!
 ## Tools I use
 - I use Void BTW
 - NVIM is life
-- AwesomeWM
+- dwm
 - Kitty Terminal
